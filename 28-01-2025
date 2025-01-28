@@ -1,0 +1,13 @@
+ Day 2 of my Java Learning Journey  
+-Learned about Data Types:  
+  -> Explored primitive and non-primitive data types.  
+  -> Studied in detail the size of each primitive type.  
+  -> Got an overview of non-primitive types (yet to dive deeper).  
+  -> Learned that heap memory and reference variables are used for non-primitive types.
+
+- Learned about Variables: 
+  -> How to declare and initialize variables.  
+  -> The rules for naming variables.  
+
+- Code Practice: 
+  -> Swapped two numbers using a temporary variable.  
