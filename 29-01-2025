@@ -1,0 +1,16 @@
+Day 3 of My Java Learning Journey  
+- Learned about Literals:  
+  -> Explored literal types like `int`, `char`, `boolean`, `String`.  
+  -> Studied examples of each literal type and their example.  
+     
+- Learned about Wrapper Classes:  
+  -> Understood the need for wrapper classes to convert primitives to objects.
+  -> Familiarized oneself to write wrapper class to corresponding primitive class.
+  -> Explored where wrapper classes are used, like in collections,serialization and autoboxing/unboxing.
+
+- Learned about Autoboxing and Unboxing:  
+  -> Autoboxing: Converting primitive to object automatically.  
+    - with pseudo code  
+  -> Unboxing: Converting object to primitive automatically.  
+    - with pseudo code  
+   -> understood how autoboxing/unboxing AND wrapper classes are linked.
