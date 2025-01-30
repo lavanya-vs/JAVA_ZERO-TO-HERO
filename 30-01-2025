@@ -18,3 +18,8 @@ Day 4 of My Java Learning Journey
 - Learned about `boolean` Data Type:
   -> Understood why JVM uses 1 byte instead of 1 bit.  
   -> Explored how `boolean` values are stored for efficiency.  
+
+- Learned a bit more about UNICODE
+ -> How to visit the website to view different code charts
+ -> Analyzed the ranges
+ -> Grasped that by using a hexadecimal literal, we can obtain the corresponding Unicode.
