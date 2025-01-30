@@ -1,0 +1,20 @@
+Day 4 of My Java Learning Journey
+
+- Learned about Data Type Sizes in Depth  (int,long,short,byte,char,boolean,float,double) :
+  -> Understood how JVM and system architecture determine byte allocation.  
+  -> Studied why each data type takes a fixed number of bytes.  
+
+- Explored Integer Types (`byte`, `short`, `int`, `long`):
+  -> Learned how binary representation affects storage.  
+  
+- Explored Floating-Point Types (`float`, `double`): 
+  -> Studied IEEE 754 standard and bit division (sign, exponent, mantissa).  
+  -> Understood precision differences between `float` and `double`.  
+
+- Learned about `char` Data Type:**  
+  -> Explored Unicode (UTF-16) and why `char` needs 2 bytes.  
+  -> Understood ASCII vs Unicode character storage.  
+
+- Learned about `boolean` Data Type:
+  -> Understood why JVM uses 1 byte instead of 1 bit.  
+  -> Explored how `boolean` values are stored for efficiency.  
