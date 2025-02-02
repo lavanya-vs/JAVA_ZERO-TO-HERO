@@ -1,0 +1,20 @@
+ Day 7 of My Java Learning Journey  
+
+- Saw How to Install Eclipse and Learned Compilation & Execution:**  
+  -> Installed and set up Eclipse IDE for Java development.  
+  -> Learned how to write, compile, and run Java programs using Eclipse.  
+
+- Understood Compilers and Interpreters:**  
+  -> Studied the working of compilers and interpreters in programming.  
+  -> Explored key differences between them with examples.  
+
+- Explored Java Input Methods:**  
+  -> Learned about `BufferedReader` and `Scanner` classes at a surface level.  
+  -> Yet to understand the concept completely.  
+
+- Practiced Type Conversion and Swapping Numbers:**  
+  -> Wrote Java code for implicit and explicit type conversion.  
+  -> Implemented number swapping logic with a temporary variable.  
+
+- Learned About `System.out.println()`:**  
+  -> Studied it at a surface level, yet to dive deep.  
