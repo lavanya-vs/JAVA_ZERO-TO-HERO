@@ -1,0 +1,26 @@
+Day 8 of My Java Learning Journey
+
+- Learned Why Java is Platform-Independent in Detail:  
+  -> Understood how Java achieves platform independence using the JVM.  
+  -> Saw how bytecode runs on different operating systems without modification.  
+
+- Saw Demonstration of This Using Windows and iOS:
+  -> Observed how the same Java program runs on both Windows and iOS.  
+  -> Understood the role of JVM in handling platform differences.  
+
+- Understood Complete Architecture of JVM:
+  -> Studied how JVM is structured and how it executes Java programs.  
+  -> Learned about its key components and their functions.  
+
+- JVM is Divided into Three Parts: Memory Area, Stack, and Heap:
+  -> Explored the importance and role of each part in Java execution.  
+  -> Understood how data is stored and managed in JVM.  
+
+- Memory Area – Where `.class` Files Load Using Class Loader: 
+  -> Learned how JVM loads `.class` files into memory for execution.  
+  -> Studied the role of the class loader in linking and initialization.  
+
+- Execution Engine – Uses Interpreter, JIT, and Garbage Collector: 
+  -> Understood how Java code is executed step by step.  
+  -> Saw how the **interpreter** runs bytecode and how **JIT** optimizes execution.  
+  -> Explored how the **Garbage Collector** automatically manages memory.  
