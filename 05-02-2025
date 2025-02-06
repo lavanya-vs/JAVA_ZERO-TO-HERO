@@ -1,0 +1,42 @@
+Day 9 of My Java Learning Journey
+
+-1. Taking Input - Java  
+ → Practiced different ways to take input in Java using `Scanner`.  
+ → Explored handling different data types like integers, strings, and floating-point numbers.  
+
+-2. Input Integer  
+→ Used `Scanner.nextInt()` to read an integer from the user.  
+ → Verified how input behaves when different values (valid and invalid) are entered.  
+
+-3. Input String
+ → Used `Scanner.nextLine()` to read a full line of text.  
+ → Tested the difference between `next()` (reads only one word) and `nextLine()` (reads the entire line).  
+
+-4. Input Floating Number
+ → Used `Scanner.nextFloat()` to take decimal input.  
+ → Checked how Java handles floating-point precision and rounding.  
+
+-5. Print With Space  
+ → Printed multiple values in a single statement with spaces between them.  
+ → Used `System.out.print()` and `System.out.printf()` to format the output neatly.  
+
+-6. Print Statement  
+ → Explored different ways to print in Java: `System.out.print()`, `System.out.println()`, and `System.out.printf()`.  
+ → Tested how `print()` vs `println()` affects output formatting.  
+
+-7. Print Without Newline  
+ → Used `System.out.print()` to print text on the same line.  
+ → Observed that unlike `println()`, it does not move to a new line after printing.  
+
+-8. Print with Separator  
+ → Used `System.out.printf()` to insert custom separators (commas, spaces, or special characters) between values.  
+ → Practiced formatted printing using placeholders like `%d`, `%s`, and `%f`.  
+
+-9. Print Without Space  
+ → Used string concatenation (`+`) to print values without any spaces.  
+ → Experimented with printing characters and numbers directly next to each other without separators.  
+
+-10. Typecast and Double It  
+ → Practiced explicit type casting in Java (e.g., converting a float to an integer).  
+ → Wrote a program to take an input number, cast it to another type, double its value, and print the result.  
+
