@@ -1,0 +1,21 @@
+Day 11 of My Java Learning Journey
+
+1. Java Stdin and Stdout I**  
+  → Practiced reading input using `Scanner`.  
+  → Used `nextInt()`, `nextDouble()`, and `next()` for different data types.  
+
+2. Java If-Else
+  → Implemented conditional logic using `if-else` statements.  
+  → Checked conditions on integers and printed different outputs accordingly.  
+
+3. Java Stdin and Stdout II
+  → Explored reading multiple inputs in a single execution.  
+  → Learned how `nextLine()` works after `nextInt()`.  
+
+4.Java Output Formatting 
+  → Used `System.out.printf()` for formatted output.  
+  → Left-justified strings and padded integers with leading zeros.  
+
+5. Java Loops I  
+  → Used loops to print multiplication tables.  
+  → Practiced `for` loops and formatted output for readability.
